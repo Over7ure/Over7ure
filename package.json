@@ -1,16 +1,15 @@
 {
-	"name": "simonaking-homepage",
+	"name": "overture",
 	"version": "1.0.0",
-	"author": "SimonAKing <simon@tomotoes.com>",
-	"license": "LGPI-3.0",
-	"homepage": "http://tomotoes.com",
-	"repository": "https://github.com/SimonAKing/HomePage",
-	"bugs": "https://github.com/SimonAKing/HomePage/issues",
-	"description": "SimonAKing-homepage",
+	"author": "Overture <wangchenwei030304@gmail.com>",
+	"license": "LGPL-3.0",
+	"repository": "https://github.com/Over7ure",
+	"description": "Overture-homepage",
 	"scripts": {
 		"predev": "gulp build",
 		"dev": "gulp watch",
-		"build": "gulp build"
+		"build": "gulp build",
+		"start": "gulp watch"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.4.4",
