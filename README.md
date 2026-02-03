@@ -41,30 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Over7ure&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Over7ure&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over7ure&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Over7ure&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
